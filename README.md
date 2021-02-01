@@ -1,4 +1,4 @@
-# musique-bot
+# Musique BOT (Discord)
 ### Salut, je suis Vivitougnou [Discord][website] 👋
 
 [![Website](https://media.discordapp.net/attachments/440052258172960768/792510905371459624/unknown.png)](https://discord.bio/p/vivitougnou)
