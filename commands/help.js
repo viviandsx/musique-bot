@@ -6,7 +6,7 @@ exports.run = async (client, message) => {
             author: { name: 'Panneau d\'aide' },
             footer: { text: 'github.com/vivitougnou' },
             fields: [
-                { name: 'Bot', value: '`ping`' },
+                { name: 'Bot', value: '`ping`, `invite`' },
                 { name: 'Music', value: '`play`, `pause`, `resume`, `queue`, `clear-queue`, `shuffle`, `np`, `loop`, `volume`, `skip`, `stop`' },
             ],
             timestamp: new Date(),
